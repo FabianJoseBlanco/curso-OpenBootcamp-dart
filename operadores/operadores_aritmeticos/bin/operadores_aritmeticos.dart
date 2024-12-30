@@ -14,4 +14,7 @@ void main(List<String> arguments) {
   print(a);
   a--;
   print(a);
+
+  //Cambiar Signo
+  print(-a);
 }
